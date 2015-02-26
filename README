@@ -1,0 +1,17 @@
+Multimedia gallery project by Xenia Serbin (in a group of 3 people)
+
+
+
+The project is intended for saving, querying and deleting information about users, projects and 
+
+Different Models, Views and Controllers were created. 
+
+technologies used
+	Java, JPA, JDBC, MySQL
+
+Requirements:
+Audience: Administrator and Viewers. The administrator must be able to add, edit and delete projects from the system with ease. The viewers must be able to perform different queries to retrieve and display the desired data on a well-designed graphical user interface.
+Graphical Interface: The graphical interface must be designed with the branded colors, font, and logo.
+Media Categories: The project data is stored in various media formats. These include:• Plain Text,• Word Documents,• Photos,• Code,• Location of Deployment and/ or Client (map),• Video (various formats), • Collection of Hyperlinks, • PDFs,• CAD Documents,• Spreadsheets,• Adobe Files (.ai, .psd) etc.
+Information to be Queried:• Current Status of Project: For example, this could include one of the following categories: Active, Completed, Suspended, or Aborted.• Timelines & Scope of Work: The timeline represents the amount of time it takes to • Theme/Category (Type of Project),• People: Partners, Students, Advisors,
+• Outcomes of Project: This is a textual description describing the result of the project.• Ability to query all the media categories mentioned above (for example, photos from all renewable energy projects, Spec Sheets, etc.)
